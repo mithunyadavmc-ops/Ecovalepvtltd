@@ -1,0 +1,3 @@
+[submodule "ecovale-hr-management"]
+    path = ecovale-hr-management
+    url = https://github.com/devdev0987-dot/ecovale-hr-management.git
